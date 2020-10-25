@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Checking Out Rails: Libraily"
-date:       2020-10-25 20:58:42 +0000
+date:       2020-10-25 16:58:42 -0400
 permalink:  checking_out_rails_libraily
 ---
 
