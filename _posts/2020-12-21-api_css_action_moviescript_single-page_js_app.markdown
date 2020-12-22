@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "API, CSS, Action! MovieScript: Single-page JS App"
-date:       2020-12-22 00:34:16 +0000
+date:       2020-12-21 19:34:17 -0500
 permalink:  api_css_action_moviescript_single-page_js_app
 ---
 
